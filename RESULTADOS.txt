@@ -1,0 +1,76 @@
+EJECUTANDO CON PYTHON
+k-mer13 con Python
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m45,373s
+user	1m45,208s
+sys	0m0,006s
+K-mer14 con Python
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	6m51,500s
+user	6m50,763s
+sys	0m0,061s
+EJECUTANDO CON C++
+k-mer13 con C++
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m0,712s
+user	0m0,709s
+sys	0m0,002s
+k-mer14 con C++
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m2,934s
+user	0m2,929s
+sys	0m0,001s
+
+EVALUACIÓN SINGULARIY
+
+Tiempo de ejecución para longitud 13 con Python
+                                
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m33,323s
+user	1m32,186s
+sys	0m0,196s
+                                
+Tiempo de ejecución para longitud 14 con Python
+                                
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	6m13,021s
+user	6m12,106s
+sys	0m0,180s
+                                
+Tiempo de ejecución para longitud 13 con C++
+                                
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m0,947s
+user	0m0,792s
+sys	0m0,120s
+                                
+Tiempo de ejecución para longitud 14 con C++
+                                
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m2,996s
+user	0m2,834s
+sys	0m0,118s
